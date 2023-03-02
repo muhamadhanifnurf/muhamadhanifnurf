@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Hanif Nur Fahri!
-Currently I'm still studying at SMK NU TULUNGAGUNG[SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Student;And+Junior+Backend+developer;........)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Junior+Backend+Developer;And+Student+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
 ### Tools:
 <p>
@@ -34,13 +34,13 @@ Currently I'm still studying at SMK NU TULUNGAGUNG[SMK NU Tulungagung](https://s
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:antonarizal@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:muhamadhanifnurfahri@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=antonarizal&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonarizal&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhamadhanifnurf&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadhanifnurf&layout=compact" height=180 />
 </p>
 
 
@@ -58,9 +58,9 @@ Currently I'm still studying at SMK NU TULUNGAGUNG[SMK NU Tulungagung](https://s
 <p>
     <a href="https://muhamadhanifnurf.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
     <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a>
-    <a href="https://twitter.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/@antonarizal_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/antonarizal" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+<!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a> -->
+    <a href="https://twitter.com/hanif8351" target="blank"><img src="https://img.shields.io/badge/@hanif8351_-30302f?style=flat&logo=twitter" /></a>
+<!--     <a href="https://www.paypal.me/antonarizal" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
 </p>
 
 <!--
