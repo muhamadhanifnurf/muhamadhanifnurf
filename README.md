@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Hanif Nur Fahri!
-Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush.com) and [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently I'm still studying at SMK NU TULUNGAGUNG[SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Student;And+Junior+Backend+developer;........)](https://git.io/typing-svg)
 
