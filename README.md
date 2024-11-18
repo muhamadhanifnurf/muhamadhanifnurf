@@ -11,7 +11,7 @@ Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.s
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### Languages And Tools
+### Languages And Tools still practicing
 
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
