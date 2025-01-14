@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Hanif Nur Fahri!
-Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently I'm still studying at [Universitas Bhineka PGRI Tulungagung](), and I love learn new thing in programming.  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Junior+Backend+Developer;And+Student+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
@@ -29,9 +29,9 @@ Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.s
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on [Djavasoft](https://djavasoft.com) </br>
-    - 🌱 I’m currently learning Python,Javascript and PHP </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+<!--     - 🔭 I’m currently working on [Djavasoft](https://djavasoft.com) </br> -->
+    - 🌱 I’m currently learning PHP </br>
+    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps and Framework. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:muhamadhanifnurfahri@gmail.com">Email me!</a>  </br>
