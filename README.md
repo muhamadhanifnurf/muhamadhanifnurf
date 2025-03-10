@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Hanif Nur Fahri!
-Currently I'm still studying at [Universitas Bhineka PGRI Tulungagung](), and I love learn new thing in programming.  
+Currently I'm still studying at [Universitas Bhineka PGRI Tulungagung](https://ubhi.ac.id/), and I love learn new thing in programming.  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Junior+Backend+Developer;And+Student+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
