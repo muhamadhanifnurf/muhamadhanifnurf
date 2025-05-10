@@ -53,14 +53,14 @@ Currently I'm still studying at [Universitas Bhineka PGRI Tulungagung](https://u
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <a href="http://www.github.com/muhamadhanifnurf"><img src="https://github-readme-stats.vercel.app/api?username=muhamadhanifnurf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="muhamadhanifnurf's GitHub stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=muhamadhanifnurf&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DD0080&currStreakNum=DD10C2&currStreakLabel=34DD4A&ring=DC0EDD&dates=DDABAB&stroke=55DDD4)](https://git.io/streak-stats) |
 
-### Let's connect!
+<!-- ### Let's connect!
 <p>
-    <a href="https://muhamadhanifnurf.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
-    <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a>
+<!--     <a href="https://muhamadhanifnurf.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a> -->
+<!--     <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a> -->
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a> -->
-    <a href="https://twitter.com/hanif8351" target="blank"><img src="https://img.shields.io/badge/@hanif8351_-30302f?style=flat&logo=twitter" /></a>
+<!--     <a href="https://twitter.com/hanif8351" target="blank"><img src="https://img.shields.io/badge/@hanif8351_-30302f?style=flat&logo=twitter" /></a> -->
 <!--     <a href="https://www.paypal.me/antonarizal" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
-</p>
+<!-- </p>
 
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
